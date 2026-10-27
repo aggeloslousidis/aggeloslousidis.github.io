@@ -1,1 +1,2 @@
-https://github.com/aggeloslousidis/progintro-hw0-2026-sdi2400278
+
+https://github.com/aggeloslousidis/progintro-hw0-2026-sdi2400278.git
